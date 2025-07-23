@@ -50,7 +50,5 @@ SAT, IOQM, SOF IMO aspirants
 
 Teachers developing auto-solvers
 
-Developers learning applied NLP and symbolic math
-
-WORKING PROOF: MATHER.png
+Developers learning applied NLP and symbolic math.
  
